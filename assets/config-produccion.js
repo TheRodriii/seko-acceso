@@ -6,7 +6,7 @@
 window.SEKO_CONSENT_CONFIG = {
   supabaseUrl: 'https://hpmqbpgvxihnkkcplosq.supabase.co',
   publishableKey: 'sb_publishable_Q_4Crk0v7otlPR-EIAxxWA_CDHIpUkk',
-  allowedClientIds: [],
+  allowedClientIds: ['3b116236-1dc4-4412-a226-5c598a14eb99'],
   allowedRedirectHosts: ['claude.ai', 'claude.com'],
   allowedRedirectPathPrefix: '/api/mcp/auth_callback',
   environmentLabel: ''
